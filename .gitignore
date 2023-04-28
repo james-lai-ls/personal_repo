@@ -1,2 +1,22 @@
-/my_notebooks
+my_notebooks/
+.DS_Store
 /data
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.env
+
+# mypy
+.mypy_cache/
